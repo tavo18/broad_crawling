@@ -1,4 +1,4 @@
-[Broad crawling](https://docs.scrapy.org/en/latest/topics/broad-crawls.html) optimized Scrapy project intented to find, given an event website, every possible platform link inside the original url.
+## [Broad crawling](https://docs.scrapy.org/en/latest/topics/broad-crawls.html) optimized Scrapy project intented to find, given an event website, every possible platform link inside the original url.
 
 Sample 1:
 Given this start url as input: https://www.mdmwest.com/en/home.html
